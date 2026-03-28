@@ -2,7 +2,7 @@
 
 A small SNES **Hello World** project built with **65816 assembly** and a simple **C# build runner**.
 
-The assembly source creates a self-contained **LoROM** demo that loads palette, tile graphics, and tilemap data directly in code, then builds a `helloworld.sfc` ROM :contentReference[oaicite:0]{index=0}
+The assembly source creates a self-contained **LoROM** demo that loads palette, tile graphics, and tilemap data directly in code, then builds a `helloworld.sfc`
 
 ## What’s included
 
